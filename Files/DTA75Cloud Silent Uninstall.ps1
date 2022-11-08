@@ -14,7 +14,7 @@ $DownloadTo = 'C:\Temp\DWDesktopApps'
 # Folder Path to unzip download into
 $UnzipTo = 'C:\Temp\DWDesktopApps'
 # Customers cloud URL ***CASE SENSITIVE***
-$CustomerURL = 'tuolumne-county.docuware.cloud'
+$CustomerURL = 'CONFIDENTIAL'
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls -bor [Net.SecurityProtocolType]::Tls11 -bor [Net.SecurityProtocolType]::Tls12
 
